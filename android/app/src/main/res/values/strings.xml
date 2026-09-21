@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VMic</string>
+    <string name="hint_host">Windows IP</string>
+    <string name="hint_port">Port</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_auto">Auto …</string>
+    <string name="btn_tone">Play test tone (2s)</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_denied">Permission denied</string>
+    <string name="status_no_host">Enter the Windows IP first</string>
+</resources>

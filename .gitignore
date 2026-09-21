@@ -1,0 +1,16 @@
+# Android
+android/local.properties
+android/.gradle/
+android/**/build/
+*.apk
+*.keystore
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#111318</color>
+    <color name="card">#1B1F27</color>
+    <color name="field">#232833</color>
+    <color name="accent">#16A34A</color>
+    <color name="stop">#DC2626</color>
+    <color name="connecting">#3B82F6</color>
+    <color name="battery">#F59E0B</color>
+    <color name="text_on_accent">#FFFFFF</color>
+    <color name="text_primary">#E5E7EB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_hint">#6B7280</color>
+    <color name="level_track">#2A303C</color>
+</resources>
